@@ -79,20 +79,7 @@
   </table>
 </div>
 
-<br />
 
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <a href="https://github.com/Saksham-official">
-    <img src="https://github-readme-stats.vercel.app/api?username=saksham-official&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Saksham's GitHub Stats" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-official&layout=compact&theme=gotham&hide_border=true&langs_count=6" alt="Top Languages" height="150"/>
-  </a>
-  <br />
-  <br />
-  <a href="https://github.com/Saksham-official">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-official&theme=gotham&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
 
 <br />
 
@@ -104,10 +91,6 @@
 <hr />
 
 <div align="center">
-  <p>
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=saksham-official&icon=0&color=0" alt="Visitor Count" />
-    </a>
-  </p>
+ 
   <sub><i>Let's connect and build something amazing!</i></sub>
 </div>
