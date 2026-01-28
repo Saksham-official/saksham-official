@@ -84,17 +84,7 @@
   </table>
 </div>
 
-<br />
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-official&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-official&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=Saksham-official&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
 <br />
 
