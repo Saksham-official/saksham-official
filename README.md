@@ -1,21 +1,21 @@
-
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc1bHQ5MjY0bDQ3YW5qNXJ5bXNxMDZ5Z3l6dDhzbXF4eXZ4eXZ4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVThqceKUBFEnf/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Funny Coding GIF" />
   
   # Hi there, I'm Saksham Goel! 👋
 
-  <h3>🚀 A Curious Mind | Keen Researcher | CSE Undergrad</h3>
+  <h3>🚀 Curious Mind | Keen Researcher | CSE Undergrad</h3>
 
   <br />
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-goel-y00528)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saksham-official)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saksham.goel28@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-goel-y00528)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saksham-official)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sakshamgoel.xyz/)
+  [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saksham2000.28@gmail.com)
+  [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Saksham-official.Saksham-official)](https://github.com/Saksham-official)
 
   <br /> <br />
 
-  I am a passionate **Computer Science** student blending creativity with technology. My focus is on **building intelligent systems** and real-world **AI solutions** using **Python** and modern frameworks. Always learning, always building. 🚀
+  Passionate **Computer Science** student blending creativity with technology. Focused on building intelligent systems and real-world **AI solutions** using **Python** and modern frameworks. Always learning, always building. 🚀
 </div>
 
 <hr />
@@ -45,12 +45,16 @@
         <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
         <br>FastAPI
       </td>
+    </tr>
+    <tr>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
         <br>SQL
       </td>
-    </tr>
-    <tr>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+        <br>Docker
+      </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
         <br>Figma
@@ -63,7 +67,9 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
         <br>CSS3
       </td>
-       <td align="center" width="90">
+    </tr>
+    <tr>
+      <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
         <br>VS Code
       </td>
@@ -74,12 +80,21 @@
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
         <br>Vercel
-      </td>
-    </tr>
+     
   </table>
 </div>
 
+<br />
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-official&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-official&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Saksham-official&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <br />
 
@@ -91,6 +106,5 @@
 <hr />
 
 <div align="center">
- 
-  <sub><i>Let's connect and build something amazing!</i></sub>
+  <sub><i>Let's connect and build something amazing together!</i></sub>
 </div>
