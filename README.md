@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Funny Coding GIF" />
-  
+
   # Hi there, I'm Saksham Goel! 👋
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="350" alt="animated hello">  
 
   <h3>🚀 Curious Mind | Keen Researcher | CSE Undergrad</h3>
 
