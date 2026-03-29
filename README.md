@@ -36,8 +36,8 @@
 ```python
 class Saksham:
     name        = "Saksham Goel"
-    role        = "CSE Undergrad @ Chandigarh University"
-    location    = "Panchkula, Haryana 🇮🇳"
+    role        = "CSE Undergrad"
+    location    = "Haryana 🇮🇳"
     focus       = ["AI/ML", "Full-Stack Dev", "Research"]
     languages   = ["Python 🐍", "C++", "JavaScript"]
     currently   = "Building AI agents & intelligent web systems"
@@ -94,14 +94,6 @@ class Saksham:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-official&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saksham-official&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
