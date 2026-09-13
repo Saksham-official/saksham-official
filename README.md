@@ -100,7 +100,7 @@
   <!-- Animated GitHub Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-official&theme=synthwave&hide_border=true&border_radius=10&background=0D1117" alt="Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-official&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&background=0D1117&count_private=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-official&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&background=0D1117" alt="Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-official&layout=compact&theme=synthwave&hide_border=true&border_radius=10&background=0D1117" alt="Langs" width="48%" />
 </div>
 
