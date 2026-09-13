@@ -1,120 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<!-- Epic Hacker/Cyber Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Saksham%20Goel&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Thinking%205%20Moves%20Ahead%20%E2%99%9F%EF%B8%8F&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="280" alt="animated hello">
+<!-- Interactive Typing Console -->
+<a href="https://sakshamai.xyz">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9D&background=00000000&center=true&vCenter=true&width=800&height=80&lines=%3E+Initializing+AI+Core...;%3E+Calculating+Best+Move...;%3E+Deploying+Full-Stack+Systems...;%3E+Checkmate.;System.out.println('Hello+World');" alt="Typing SVG" />
+</a>
 
-# Saksham Goel
+<br>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer+in+the+Making+%F0%9F%A7%A0;Full-Stack+Dev+%7C+Python+Enthusiast;Building+Intelligent+Systems+%F0%9F%9A%80;CSE+Undergrad+%7C+Curious+by+Default" alt="Typing SVG" />
-</p>
+<!-- Animated Cyber Badges -->
+<a href="https://sakshamai.xyz">
+  <img src="https://img.shields.io/badge/Enter_The_Matrix-000000?style=for-the-badge&logo=matrix&logoColor=00FF9D&borderColor=00FF9D" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/saksham-goel-y00528">
+  <img src="https://img.shields.io/badge/Connect_Node-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9D" alt="LinkedIn"/>
+</a>
+<a href="mailto:saksham.goel28@gmail.com">
+  <img src="https://img.shields.io/badge/Ping_Me-000000?style=for-the-badge&logo=minutemailer&logoColor=00FF9D" alt="Email"/>
+</a>
 
-<p>
-  <a href="https://linkedin.com/in/saksham-goel-y00528">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
+
+<br><br>
+
+<div align="center">
+  <!-- Chess + AI GIF -->
+  <img src="https://media.giphy.com/media/l41YkxvU8c7J7Bba0/giphy.gif" width="180" align="right" style="border-radius: 10px;">
+  
+  <h2 align="left">♟️ Strategic State</h2>
+  <p align="left">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=A78BFA&vCenter=true&width=500&height=30&lines=I+am+an+AI+%26+ML+aficionado.;I+don't+just+write+code%2C+I+train+systems.;Chess+player+by+night%2C+engineer+by+day." alt="Typing Text" />
+    <br><br>
+    Currently engineering <b>RAG architectures</b>, building responsive <b>React/FastAPI</b> applications, and competing in hackathons. <br>
+    Whether it's optimizing an algorithm or finding a forced mate in 3, I'm obsessed with calculating the most efficient path to victory.
+  </p>
+</div>
+
+<br clear="both">
+
+<!-- 
+  OPTIONAL CHESS STATS WIDGET: 
+  If you have a Chess.com account, uncomment the line below and change "your_username".
+-->
+<!--
+<div align="center">
+  <a href="https://www.chess.com/member/your_username">
+    <img src="https://chess-stats-readme.vercel.app/api?name=your_username&theme=dark" alt="Chess.com Stats" />
   </a>
-  <a href="https://github.com/Saksham-official">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+-->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=⚡%20Neural%20Arsenal%20⚡&fontSize=30&fontColor=ffffff" />
+</div>
+
+<div align="center">
+  <!-- Skill icons automatically animate on hover -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,react,fastapi,nodejs,postgres,mysql,html,css&theme=dark&perline=9" />
   </a>
-  <a href="https://www.sakshamgoel.xyz/">
-    <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,postman,linux,vscode,jupyter&theme=dark&perline=9" />
   </a>
-  <a href="mailto:saksham2000.28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=🚀%20Live%20Deployments%20🚀&fontSize=30&fontColor=ffffff" />
+</div>
+
+<div align="center">
+  <!-- Using Synthwave themed GitHub Cards (looks highly creative instead of a boring table) -->
+  <a href="https://github.com/Saksham-official/CriteriaGuard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saksham-official&repo=CriteriaGuard&theme=synthwave&show_icons=true" alt="CriteriaGuard">
   </a>
-</p>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Saksham-official.Saksham-official&style=flat-square&color=blueviolet" />
-
+  <a href="https://github.com/Saksham-official/DocuMind">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saksham-official&repo=DocuMind&theme=synthwave&show_icons=true" alt="DocuMind">
+  </a>
+  <br><br>
+  <a href="https://github.com/Saksham-official/Crypto-Tracking">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saksham-official&repo=Crypto-Tracking&theme=synthwave&show_icons=true" alt="Crypto Tracking">
+  </a>
+  <a href="https://github.com/Saksham-official/SQL-Data-Warehouse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saksham-official&repo=SQL-Data-Warehouse&theme=synthwave&show_icons=true" alt="Data Warehouse">
+  </a>
 </div>
 
----
-
-## 🧠 About Me
-
-```python
-class Saksham:
-    name        = "Saksham Goel"
-    role        = "CSE Undergrad"
-    location    = "Haryana 🇮🇳"
-    focus       = ["AI/ML", "Full-Stack Dev", "Research"]
-    languages   = ["Python 🐍", "C++", "JavaScript"]
-    currently   = "Building AI agents & intelligent web systems"
-    ask_me_about= ["LLMs", "FastAPI", "React", "System Design"]
-    motto       = "Always learning. Always building. 🚀"
-```
-
----
-
-## 🛠️ Tech Stack
+<br><br>
 
 <div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Web & Backend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Tools & Infra**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-official&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=📡%20Telemetry%20Data%20📡&fontSize=30&fontColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-official&theme=tokyonight&hide_border=true" />
+  <!-- Animated GitHub Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-official&theme=synthwave&hide_border=true&border_radius=10&background=0D1117" alt="Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-official&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&background=0D1117&count_private=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-official&layout=compact&theme=synthwave&hide_border=true&border_radius=10&background=0D1117" alt="Langs" width="48%" />
 </div>
 
----
-
-## 📈 Contribution Graph
+<br><br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham-official&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=🐍%20The%20Matrix%20Snake%20🐍&fontSize=30&fontColor=ffffff" />
+  <p><i>Eating my contributions day by day...</i></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saksham-official/Saksham-official/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saksham-official/Saksham-official/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Saksham-official/Saksham-official/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
----
-
-## ✍️ Dev Thought of the Day
+<br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-  <sub><i>Let's build something intelligent together — reach out anytime! 🤝</i></sub>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Saksham-official.Saksham-official&style=for-the-badge&color=00FF9D&logo=github" alt="Profile Views"/>
 </div>
